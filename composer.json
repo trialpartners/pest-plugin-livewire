@@ -1,5 +1,5 @@
 {
-    "name": "pestphp/pest-plugin-livewire",
+    "name": "trialpartners/pest-plugin-livewire",
     "description": "The Pest Livewire Plugin",
     "keywords": [
         "php",
